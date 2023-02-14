@@ -4,8 +4,11 @@
 Vo Van Dang Khoa
 
 ## Test API
-1. [API 1: Add a tutorial](#api-1)
-2. [API 2: Get All Tutorials](#api-2)
+- [Practice Project 1](#practice-project-1)
+  - [Full Name](#full-name)
+  - [Test API](#test-api)
+    - [API 1: POST /api/tutorials](#api-1-post-apitutorials)
+    - [API 2: GET //aaaa](#api-2-get-aaaa)
 
 ### API 1: POST /api/tutorials
 * **Add a Tutorial**
