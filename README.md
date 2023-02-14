@@ -4,7 +4,6 @@
 Vo Van Dang Khoa
 
 ## Test API
-
 - [Practice Project 1](#practice-project-1)
   - [Full Name](#full-name)
   - [Test API](#test-api)
