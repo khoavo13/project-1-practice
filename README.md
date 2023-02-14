@@ -5,8 +5,17 @@ Vo Van Dang Khoa
 
 ## Test API
 
-- [API 1: POST /api/tutorials](#api-1-post-apitutorials)
-- [API 2: GET //aaaa](#api-2-get-aaaa)
+- [Practice Project 1](#practice-project-1)
+  - [Full Name](#full-name)
+  - [Test API](#test-api)
+    - [API 1: POST /api/tutorials](#api-1-post-apitutorials)
+    - [API 2: GET /api/tutorials](#api-2-get-apitutorials)
+    - [API 3: GET /api/tutorials/{id}](#api-3-get-apitutorialsid)
+    - [API 4: PUT /api/tutorials/{id}](#api-4-put-apitutorialsid)
+    - [API 5: GET /api/tutorials/published](#api-5-get-apitutorialspublished)
+    - [API 6: GET /api/tutorials?title={title}](#api-6-get-apitutorialstitletitle)
+    - [API 7: DELETE /api/tutorials/{id}](#api-7-delete-apitutorialsid)
+    - [API 8: DELETE /api/tutorials](#api-8-delete-apitutorials)
 
 ### API 1: POST /api/tutorials
 * **Add a Tutorial**
