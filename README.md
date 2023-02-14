@@ -19,8 +19,9 @@
 
 ### Setting
 * **JPA**
+![JPA](https://github.com/khoavo13/project-1-practice/blob/main/result-image/JPA-setting.PNG)
 * **OracleDB Connection**
-
+![Oracle](https://github.com/khoavo13/project-1-practice/blob/main/result-image/oracle-connection-setting.PNG)
 ### Test API
 
 #### API 1: POST /api/tutorials
