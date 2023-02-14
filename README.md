@@ -3,38 +3,20 @@
 ## Full Name
 Vo Van Dang Khoa
 
-<<<<<<< HEAD
-
 ## Test API
 1. [API 1: Create a tutorial](#api-1)
 
-*
 
-
-### API 1 : GET /api/tutorials
-* Add a Tutorial
+### API 1: POST /api/tutorials
+* **Add a Tutorial**
 * **Postman:**
-    * Tutorial 1:
-![API 1A](https://github.com/khoavo13/project-1-practice/blob/main/result-image/API-1%20-%20Add%20Tutorial/1.PNG)
-    * Tutorial 2:
-![API 1B](https://github.com/khoavo13/project-1-practice/blob/main/result-image/API-1%20-%20Add%20Tutorial/2.PNG)
-    * Tutorial 3:
-![API 1C](https://github.com/khoavo13/project-1-practice/blob/main/result-image/API-1%20-%20Add%20Tutorial/3.PNG)
-* **OracleDB:**
-![API 1D](https://github.com/khoavo13/project-1-practice/blob/main/result-image/API-1%20-%20Add%20Tutorial/4.PNG)
+    * Tutorial 1:\\
+![API 1A](https://github.com/khoavo13/project-1-practice/blob/main/result-image/API-1%20-%20Add%20Tutorial/1.PNG)\\
+    * Tutorial 2:\\
+![API 1B](https://github.com/khoavo13/project-1-practice/blob/main/result-image/API-1%20-%20Add%20Tutorial/2.PNG)\\
+    * Tutorial 3:\\
+![API 1C](https://github.com/khoavo13/project-1-practice/blob/main/result-image/API-1%20-%20Add%20Tutorial/3.PNG)\\
+* **OracleDB:**\\
+![API 1D](https://github.com/khoavo13/project-1-practice/blob/main/result-image/API-1%20-%20Add%20Tutorial/4.PNG)\\
 
-=======
----
-## Test API
-1. [API 1: Create a tutorial](#api-1)
-
-***
-
-
-### API 1
-
-![API 1](https://github.com/khoavo13/project-1-practice/blob/main/result-image/API-1%20-%20Add%20Tutorial/1.PNG)
->>>>>>> 39e874f852f492ac5f43eccb715a16955507e3ee
-
-***
-
+### API 2: GET //
