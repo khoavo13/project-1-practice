@@ -18,9 +18,9 @@
     - [API 8: DELETE /api/tutorials](#api-8-delete-apitutorials)
 
 ### Setting
-* **JPA**
+* **JPA:**  
 ![JPA](https://github.com/khoavo13/project-1-practice/blob/main/result-image/JPA-setting.PNG)
-* **OracleDB Connection**
+* **OracleDB Connection:**  
 ![Oracle](https://github.com/khoavo13/project-1-practice/blob/main/result-image/oracle-connection-setting.PNG)
 ### Test API
 
